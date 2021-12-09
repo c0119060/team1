@@ -1,4 +1,4 @@
-mylist = ["Orange", "Peach", "Lemon", "Apple","Banana"]
+mylist = ["Orange", "Peach", "Lemon", "Apple","Banana",,,"Cherry"]
 for val in mylist:
     print("value:" + val)
     #test
