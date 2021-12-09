@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-mylist = ["Orange", "Peach", "Lemon", "Apple","Akebia"]
-=======
-mylist = ["Orange", "Peach", "Lemon", "Apple","Banana",,,"Cherry"]
->>>>>>> origin/main
+mylist = ["Orange", "Peach", "Lemon", "Apple","Banana","Akebia"]
 for val in mylist:
     print("value:" + val)
     #test
